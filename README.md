@@ -21,11 +21,11 @@
 ### 🔬 Data Science and Machine Learning:
 - *Awaiting Institutional Approval* – Projects in this category are currently under review before being publicly shared.
 
-### 🎨 Frontend:
+### 🎨 Frontend and Deployment:
 - [Tournament Quiz Manager](#) – An interactive platform for managing and hosting quiz tournaments.  
   **Tech Stack:** [Add relevant technologies, e.g., React, TypeScript, TailwindCSS]  
 
-### ⚙️ Backend:
+### ⚙️ Backend and Deployment:
 - [Dynamic Football Stats](#) – A data-driven backend system for real-time football statistics and analytics.  
   **Tech Stack:** [Add relevant technologies, e.g., FastAPI, PostgreSQL, Redis]
 
