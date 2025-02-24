@@ -32,14 +32,26 @@
 ---
 
 ## 🛠 Skills:
-![Python](https://img.shields.io/badge/PYTHON-green?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LATEX-orange?style=for-the-badge&logo=latex&logoColor=white)
-![Streamlit](https://img.shields.io/badge/STREAMLIT-red?style=for-the-badge&logo=streamlit&logoColor=white)
-![Wordware](https://img.shields.io/badge/WORDWARE-gray?style=for-the-badge)
-![Langchain](https://img.shields.io/badge/LANGCHAIN-green?style=for-the-badge)
-![React](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=react&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-green?style=for-the-badge&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r&logoColor=white)  
+![LaTeX](https://img.shields.io/badge/LATEX-orange?style=for-the-badge&logo=latex&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/STREAMLIT-red?style=for-the-badge&logo=streamlit&logoColor=white)  
+![Wordware](https://img.shields.io/badge/WORDWARE-gray?style=for-the-badge)  
+![Langchain](https://img.shields.io/badge/LANGCHAIN-green?style=for-the-badge)  
+![React](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=react&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Databricks](https://img.shields.io/badge/DATABRICKS-red?style=for-the-badge&logo=databricks&logoColor=white)  
+![Tigramite](https://img.shields.io/badge/TIGRAMITE-blue?style=for-the-badge)  
+![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-yellow?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-blue?style=for-the-badge)  
+![Seaborn](https://img.shields.io/badge/SEABORN-lightblue?style=for-the-badge)  
+![Postman](https://img.shields.io/badge/POSTMAN-orange?style=for-the-badge&logo=postman&logoColor=white)  
+![Power BI](https://img.shields.io/badge/POWER%20BI-yellow?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/TABLEAU-blue?style=for-the-badge&logo=tableau&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/HUGGING%20FACE-yellow?style=for-the-badge&logo=huggingface&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/MATLAB-blue?style=for-the-badge&logo=mathworks&logoColor=white)  
+
 
 
 ---
