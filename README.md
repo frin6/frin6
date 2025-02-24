@@ -24,9 +24,9 @@
 ---
 
 ## 🛠 Skills:
-![Python](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-green?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LATEX-blue?style=for-the-badge&logo=latex&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LATEX-orange?style=for-the-badge&logo=latex&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/STREAMLIT-red?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Wordware](https://img.shields.io/badge/WORDWARE-gray?style=for-the-badge)
 ![Langchain](https://img.shields.io/badge/LANGCHAIN-green?style=for-the-badge)
