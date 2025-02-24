@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Filippo 👋
 
-## Filippo Rinaldi
 - 🧑🏻‍🎓 Management Engineer with a strong background in Mathematics, Data Science and Finance.
 - 💰 Driven by the challenge of transforming technology and mathematical insights into impactful business solutions.
 - 📄 Passionate about applying mathematical models to solve real-world problems.
