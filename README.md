@@ -17,9 +17,17 @@
 ---
 
 ## ✅ Projects:
-- [Multi-object tracking in complex urban scenarios](#)  
-- [A non-parametric analysis on honey bee health](#) - Evaluation of factors and strategies to mitigate colony loss in the US  
-- [Heterogeneity assessment of chemotherapy-injured liver in patients with colorectal cancer](#)  
+
+### 🔬 Data Science and Machine Learning:
+- *Awaiting Institutional Approval* – Projects in this category are currently under review before being publicly shared.
+
+### 🎨 Frontend:
+- [Tournament Quiz Manager](#) – An interactive platform for managing and hosting quiz tournaments.  
+  **Tech Stack:** [Add relevant technologies, e.g., React, TypeScript, TailwindCSS]  
+
+### ⚙️ Backend:
+- [Dynamic Football Stats](#) – A data-driven backend system for real-time football statistics and analytics.  
+  **Tech Stack:** [Add relevant technologies, e.g., FastAPI, PostgreSQL, Redis]
 
 ---
 
