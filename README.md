@@ -1,12 +1,11 @@
 ## Hi there, I'm Filippo 👋
 
 I work as a **Solution Engineer** at [**Vedrai**](https://www.vedrai.com) in Milan, where I blend my technical expertise with financial logic as part of the GTM team.  
+Previously, I was a **Data Scientist** during my internship, where I also completed my Master's Thesis:  
 
-Previously, I was a Data Scientist during my internship, where I also completed my Master's Thesis:  
+**_"Exploring Sentiment Analysis and Its Influence on Listed Commodities: A Causal Discovery Approach"_** 
 
-**_"Exploring Sentiment Analysis and Its Influence on Listed Commodities: A Causal Discovery Approach"_**  
-
-In this research, I applied **Causal Inference** techniques to the financial sector, exploring the impact of **sentiment analysis** on **commodity markets**.  
+In this research, I applied **Causal Inference** techniques to the financial sector, exploring the impact of **sentiment analysis** on **commodity markets**. 
 
 📺 [Thesis Presentation on YouTube](https://www.youtube.com/watch?v=aYWSGBYIWuk&t=1044s)
 
