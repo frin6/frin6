@@ -1,7 +1,7 @@
 ## Hi there, I'm Filippo 👋
 
 I work as a **Solution Engineer** at [**Vedrai**](https://www.vedrai.com) in Milan, where I blend my technical expertise with financial logic as part of the GTM team.  
-Previously, I was a **Data Scientist** during my internship, where I also completed my Master's Thesis:  
+Previously, I worked as **Data Scientist** during my internship, where I also completed my Master's Thesis:  
 
 **_"Exploring Sentiment Analysis and Its Influence on Listed Commodities: A Causal Discovery Approach"_** 
 
