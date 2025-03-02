@@ -29,14 +29,15 @@ In this research, I applied **Causal Inference** techniques to the financial sec
 ## ✅ Projects:
 
 ### 🔬 Data Science and Machine Learning:
-- *Awaiting Institutional Approval* – Projects in this category are currently under review before being publicly shared.
-
+- [Chronic Patients Journey Sentiment Analysis]([https://github.com/frin6/chronic-patients-journey-sentiment-analysis])– This system performs sentiment analysis using NLP techniques on chronic patient journey data to uncover insights into medical experiences across different stages of care.
+ **Tech Stack:** [Transformers, Torch, Numpy, Pandas, Matplotlib, Seaborn] 
+  
 ### 🎨 Frontend and Deployment:
-- [Tournament Quiz Manager](#) – An interactive platform for managing and hosting quiz tournaments.  
+- [Tournament Quiz Manager]([https://github.com/frin6/tournament-quiz-manager]) – An interactive platform for managing and hosting quiz tournaments.  
   **Tech Stack:** [React 18, Context API, CSS-in-JS, JavaScript ES6+, Vercel]  
 
 ### ⚙️ Backend and Deployment:
-- [Dynamic Football Stats](#) – A data-driven backend system for dynamic football statistics, analytics and quizzes.  
+- [Dynamic Football Stats]([https://github.com/frin6/dynamic-football-stats])) – A data-driven backend system for dynamic football statistics, analytics and quizzes.  
   **Tech Stack:** [FastAPI, Plotly, Pandas, Jinja2, Bootstrap, Render]
 
 ---
