@@ -29,7 +29,7 @@ In this research, I applied **Causal Inference** techniques to the financial sec
 ## ✅ Projects:
 
 ### 🔬 Data Science and Machine Learning:
-- [Chronic Patients Journey Sentiment Analysis](https://github.com/frin6/chronic-patients-journey-sentiment-analysis) – This system performs sentiment analysis using NLP techniques on chronic patient journey data to uncover insights into medical experiences across different stages of care.
+- [Chronic Patients Journey Sentiment Analysis](https://github.com/frin6/chronic-patients-journey-sentiment-analysis) – This system performs sentiment analysis using NLP techniques on chronic patient journey data to uncover insights into medical experiences across different stages of care.                    
   **Tech Stack:** [Transformers, Torch, Numpy, Pandas, Matplotlib, Seaborn] 
   
 ### 🎨 Frontend and Deployment:
